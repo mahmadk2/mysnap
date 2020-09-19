@@ -12,7 +12,7 @@ ActionMailer::Base.smtp_settings = {
 
 :authentication => :plain,
 
-:user_name => ENV['mahmadk2'],
+:user_name => ENV['mahmadk2@hotmail.com'],
 
 :password => ENV['jxtazaw12'],
 
